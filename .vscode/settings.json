@@ -1,0 +1,46 @@
+{
+    "window.zoomLevel": 1,
+  
+    "typescript.updateImportsOnFileMove.enabled": "always",
+  
+    "[javascript]": {
+      "editor.defaultFormatter": "esbenp.prettier-vscode"
+    },
+  
+    "editor.formatOnSave": true,
+  
+    "[typescript]": {
+      "editor.defaultFormatter": "esbenp.prettier-vscode"
+    },
+  
+    "[javascript|react]": {
+      "editor.defaultFormatter": "esbenp.prettier-vscode"
+    },
+  
+    "[typescript|react]": {
+      "editor.defaultFormatter": "esbenp.prettier-vscode"
+    },
+  
+    "[less]": {
+      "editor.defaultFormatter": "esbenp.prettier-vscode"
+    },
+  
+    "[css]": {
+      "editor.defaultFormatter": "esbenp.prettier-vscode"
+    },
+  
+    "[json]": {
+      "editor.defaultFormatter": "esbenp.prettier-vscode"
+    },
+  
+    "javascript.updateImportsOnFileMove.enabled": "always",
+  
+    "[javascriptreact]": {
+      "editor.defaultFormatter": "esbenp.prettier-vscode"
+    },
+  
+    "files.associations": {
+      "*.js": "javascriptreact"
+    }
+  }
+  
